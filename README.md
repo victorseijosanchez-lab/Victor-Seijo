@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/victorseijosan/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-  <a href="mailto:victorseijosanchez@gmail.com.com">
+  <a href="mailto:victorseijosanchez@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
   <a href="https://github.com/victorseijosanchez-lab">
