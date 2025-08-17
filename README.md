@@ -12,7 +12,8 @@
   </a>
 </p>
 
-Soy Víctor Seijo un diseñador UX/UI con especialidad en accesibilidad con formación en el area de front-end.
+Soy Víctor Seijo un diseñador UX/UI con especialidad en accesibilidad <br>
+Con formación en el area de front-end.
 
 ### Gracias por visitar mi sitio
 
